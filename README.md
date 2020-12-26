@@ -1,4 +1,4 @@
-## CS50 (ICS) - HarvardX
+## Harvard CS50x
 > All the assignments I did for CS50 Introudction to Computer Science 2020 😅
 
 ### Notes
